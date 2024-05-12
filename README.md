@@ -159,10 +159,8 @@ public class CustomAdapter extends BaseAdapter {
 
 ## OUTPUT:
 
-![Screenshot 2024-04-29 085623](https://github.com/VELANDHANANJAYAN/listview/assets/119405038/efcb9e67-fe15-45e0-98a9-7d61c327ee7e)
-
-
-![Screenshot 2024-04-29 085635](https://github.com/VELANDHANANJAYAN/listview/assets/119405038/25fa86f4-426d-425c-83e1-73486aac0755)
+![IMG-20240509-WA0027](https://github.com/VELANDHANANJAYAN/listview/assets/119405038/38003709-3f4a-4d64-b647-999ba00b3bcf)
+![IMG-20240509-WA0011](https://github.com/VELANDHANANJAYAN/listview/assets/119405038/c1261133-c939-41d9-9828-83e97f2707cf)
 
 
 ## RESULT
